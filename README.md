@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://cdn.discordapp.com/attachments/976928272476676117/980160325678674070/unknown.png" />
+</p>
 
-<!--
-**Arthur5977/Arthur5977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://img.shields.io/github/followers/Arthur5977?style=social" alt="github followers" /><br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Arthur5977&show_icons=true&theme=dark" alt="Arthur5977" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur5977&theme=dark" alt="Arthur5977" />
+    
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <a href="https://discord.gg/pMcEfkU7fw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</p>
+
+<hr>
+
+ᴅɪsᴄᴏʀᴅ: Itachi#0002 <img align="center" alt="Arthur5977" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<hr>
+
+<p align="center">
+  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/:761371074075688961)](https://discord.com/users/:761371074075688961)" width="450px">
+</p>
