@@ -22,5 +22,5 @@
 <hr>
 
 <p align="center">
-  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/:761371074075688961)](https://discord.com/users/:761371074075688961)" width="450px">
+  <img src="https://lanyard.cnrad.dev/api/761371074075688961" width="450px">
 </p>
