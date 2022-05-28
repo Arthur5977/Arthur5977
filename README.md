@@ -21,6 +21,8 @@
 
 <hr>
 
+![Snake animation](https://github.com/Arthur5977/Arthur5977/blob/output/github-contribution-grid-snake.svg)
+    
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/761371074075688961" width="450px">
 </p>
